@@ -4,6 +4,7 @@ Bu repository, Python öğrenirken geliştirdiğim başlangıç seviyesi mini pr
 
 ## Projeler
 
+- Alan ve Çevre Hesaplama
 - Görev Takip Uygulaması
 - Günlük Uygulaması
 - Hesap Makinesi
@@ -27,6 +28,9 @@ Bu repository, Python öğrenirken geliştirdiğim başlangıç seviyesi mini pr
 - Dosya işlemleri
 - Try-except
 - Kullanıcıdan veri alma
+- Math modülü
+- Fonksiyonlara bölme
+- Geometrik hesaplamalar
 
 ## Amaç
 
